@@ -19,6 +19,7 @@
 		CE71948A1998B81D00D327D2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE7194721998B81D00D327D2 /* UIKit.framework */; };
 		CE7194921998B81D00D327D2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CE7194901998B81D00D327D2 /* InfoPlist.strings */; };
 		CE7194941998B81D00D327D2 /* ToDoListTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE7194931998B81D00D327D2 /* ToDoListTests.m */; };
+		CE71949E1998BF3600D327D2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE71949D1998BF3600D327D2 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		CE71948F1998B81D00D327D2 /* ToDoListTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ToDoListTests-Info.plist"; sourceTree = "<group>"; };
 		CE7194911998B81D00D327D2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CE7194931998B81D00D327D2 /* ToDoListTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ToDoListTests.m; sourceTree = "<group>"; };
+		CE71949D1998BF3600D327D2 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 			children = (
 				CE71947D1998B81D00D327D2 /* AppDelegate.h */,
 				CE71947E1998B81D00D327D2 /* AppDelegate.m */,
+				CE71949D1998BF3600D327D2 /* Main.storyboard */,
 				CE7194801998B81D00D327D2 /* Images.xcassets */,
 				CE7194751998B81D00D327D2 /* Supporting Files */,
 			);
@@ -218,6 +221,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE71949E1998BF3600D327D2 /* Main.storyboard in Resources */,
 				CE7194791998B81D00D327D2 /* InfoPlist.strings in Resources */,
 				CE7194811998B81D00D327D2 /* Images.xcassets in Resources */,
 			);

@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>8A63D5AE-EE66-46C5-9839-996125D47CCD</string>
+	<string>BDC1C3F5-03F3-4F50-A1C3-9235D936797E</string>
 	<key>IDESourceControlProjectName</key>
 	<string>ToDoList</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>48B75E12-0F26-4ABA-AE27-BB812A5B30BF</string>
 			<key>IDESourceControlWCCName</key>
-			<string>practice</string>
+			<string>ToDoList</string>
 		</dict>
 	</array>
 </dict>
